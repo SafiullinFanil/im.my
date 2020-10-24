@@ -2,3 +2,11 @@ Fault: 04-10-2020 17:17:34 - Method core\admin\controller\IndexController::reque
 file W:\domains\im.my\public_html\core\base\controller\BaseController.php
 In line 41
 
+Fault: 12-10-2020 8:49:43 - Некорректная дирректория сайта
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\RouteController.php
+In line 99
+
+Fault: 12-10-2020 8:54:56 - Некорректная дирректория сайта
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\RouteController.php
+In line 99
+
