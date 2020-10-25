@@ -10,3 +10,19 @@ Fault: 12-10-2020 8:54:56 - Некорректная дирректория са
 file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\RouteController.php
 In line 99
 
+Fault: 25-10-2020 17:33:50 - Не верное имя файла для подключения - core/user/controller/CssController
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 32
+
+Fault: 25-10-2020 17:34:07 - Не верное имя файла для подключения - core/user/controller/CssController
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 32
+
+Fault: 25-10-2020 17:35:06 - Не верное имя файла для подключения - core/user/controller/CssController
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 32
+
+Fault: 25-10-2020 17:37:46 - Не верное имя файла для подключения - core/user/controller/CssController
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 32
+
