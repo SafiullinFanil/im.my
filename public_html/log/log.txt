@@ -26,3 +26,103 @@ Fault: 25-10-2020 17:37:46 - Не верное имя файла для подк
 file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
 In line 32
 
+Fault: 27-10-2020 16:52:55 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:52:59 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:56:55 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:57:42 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:57:53 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:58:16 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:58:23 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:58:31 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:58:50 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:58:57 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 16:59:31 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:00:57 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:01:16 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:01:37 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:01:48 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:02:13 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:03:16 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:05:30 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:06:34 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:07:15 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:07:59 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:08:01 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:26:59 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:27:33 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
+Fault: 27-10-2020 17:27:53 - Class core\user\controller\?Controller does not exist
+file C:\Users\sapun\Deskt\open_server_5_3_5_basic_premium_ultimate\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line 41
+
