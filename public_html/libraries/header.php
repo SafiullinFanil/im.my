@@ -28,13 +28,23 @@
                         <a class="dropdown-item" href="#">Блузки</a>
                         <a class="dropdown-item" href="#">Хуйнюшки</a>
                     </div>
+                <li class="nav-item dropdown">
+                    <a href="" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLinkMan" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Мужчины</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLinkMan">
+                        <a class="dropdown-item" href="#">-</a>
+                        <a class="dropdown-item" href="#">-</a>
+                        <a class="dropdown-item" href="#">-</a>
+                    </div>
                 </li>
-                <li class="nav-item">
-                    <a href="" class="nav-link">Мужчины</a>
+                <li class="nav-item dropdown">
+                    <a href="" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLinkChild" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Дети</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLinkChild">
+                        <a class="dropdown-item" href="#">-</a>
+                        <a class="dropdown-item" href="#">-</a>
+                        <a class="dropdown-item" href="#">-</a>
+                    </div>
                 </li>
-                <li class="nav-item">
-                    <a href="" class="nav-link">Дети</a>
-                </li>
+
             </ul>
 
             <form class="d-flex mb-0" action="">
